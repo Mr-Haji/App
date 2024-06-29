@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "110803266952",
+    "firebase_url": "https://card-b4c8a-default-rtdb.firebaseio.com",
+    "project_id": "card-b4c8a",
+    "storage_bucket": "card-b4c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110803266952:android:1290381680fd6d813a5e3d",
+        "android_client_info": {
+          "package_name": "com.firstproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhhXS0eYv_ZzFftXnUrMElbw5tM3gsrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
         gap: 20,
         flex: 1,
         justifyContent: 'center',
-        backgroundColor: "red"
+        backgroundColor: "purple"
         // alignItems:'center'
 
     },
@@ -92,14 +92,14 @@ const styles = StyleSheet.create({
         borderRadius: 10
     },
     button: {
-        backgroundColor: '#7cacf8',
+        backgroundColor: 'pink',
         paddingVertical: 15,
         borderRadius: 10
 
     },
     button_text: {
         textAlign: 'center',
-        color: 'white'
+        color: 'black'
     }
 })
 

@@ -29,7 +29,7 @@ getPostData()
   return (
     <View style={styles.container}>
       <TouchableOpacity onPress={()=>navigation.navigate("createpost",{uid})}>
-        <Text style={{color: "black"}}>Create Post</Text>
+        <Text style={{color: "black" }}>Create Post</Text>
       </TouchableOpacity>
       <TouchableOpacity onPress={getPostData}>
         <Text style={{color: "black"}}>Get data</Text>
